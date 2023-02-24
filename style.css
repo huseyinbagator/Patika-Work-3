@@ -1,0 +1,44 @@
+body{
+    background-color: #e0c9a9;
+}
+h1{
+    color: #5e2e27;
+    font-style: italic;
+    
+}
+header .item{
+    font-weight: 700;
+    font-style: italic;
+}
+main{
+    margin: 0 auto;
+    font-size: 13px;
+   
+}
+.links{
+    text-align: center;
+}
+.links a{
+    margin: 5px;
+    color: #000;
+}
+main a span{
+    color:#ff0000;
+}
+section{
+    margin: 0 auto;
+    width: 40%;
+}
+section h3{
+    display: inline-block;
+    color: #fff;
+    background-color: #963102;
+    border-radius:30px;
+}
+ h4{
+    text-align: right;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #963102;
+    letter-spacing: 3px;
+}
